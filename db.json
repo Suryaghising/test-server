@@ -1,8 +1,22 @@
 {
-  "bookings":[
-    {
-	"id": 0,
-	"name":"Surya"
-    }
-  ]
+    "bookings": [
+  {
+    "longitude_origin": 85.3043672,
+    "latitude_origin": 27.6869141,
+    "longitude_destination": 85.30576575547455,
+    "latitude_destination": 27.711601347816327,
+    "price": 34,
+    "payment_type": 1,
+    "origin": "2 Sanepa Lalitpur Bagmati Province 44700 Nepal",
+    "destination": "305 Dhalko Kathmandu Bagmati Province 44600 Nepal",
+    "distance": "3.4",
+    "duration": "710",
+    "passenger_number": 1,
+    "vehicle_type": 1,
+    "status": "pending",
+    "userId": 144,
+    "riderId": null,
+    "id": 1
+  }
+ ]
 }
