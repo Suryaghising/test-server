@@ -1,6 +1,8 @@
 {
     "todos": [
-        "title": "Test",
+        {
+            "title": "Test",
         "id": 2
+        }
         ]
 }
